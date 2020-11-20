@@ -16,4 +16,4 @@ Dean Huang:[@DeanHuang-Git](https://github.com/DeanHuang-Git)   <br />
 Wilson Huang: [@yichenghuang980](https://github.com/yichenghuang980)   <br />
 Malcolms Fraser: [@wkhalil](https://github.com/malcolmsfraser)   <br />
 
-Fore more details about the project, please refer to the [report](https://github.com/DeanHuang-Git/Comparison-of-Machine-Learning-Algorithms-Deep-Learning-Algorithms-in-Sentiment-Analysis-/blob/master/report/Final%20Report.pdf).
+Fore more details about the project, please refer to the [report](https://github.com/DeanHuang-Git/Estimate-the-Impact-of-Opioid-Control-Policies/blob/main/40_docs/Final%20Report.pdf).
